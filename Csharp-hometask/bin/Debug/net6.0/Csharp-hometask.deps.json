@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Csharp-hometask/1.0.0": {
+        "runtime": {
+          "Csharp-hometask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp-hometask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

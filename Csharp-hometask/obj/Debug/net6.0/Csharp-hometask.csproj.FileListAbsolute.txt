@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\obj\Debug\net6.0\Csharp-hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\obj\Debug\net6.0\Csharp-hometask.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\obj\Debug\net6.0\Csharp-hometask.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\obj\Debug\net6.0\Csharp-hometask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\bin\Debug\net6.0\Csharp-hometask.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\bin\Debug\net6.0\Csharp-hometask.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\bin\Debug\net6.0\Csharp-hometask.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\bin\Debug\net6.0\Csharp-hometask.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\bin\Debug\net6.0\Csharp-hometask.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\obj\Debug\net6.0\Csharp-hometask.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\obj\Debug\net6.0\refint\Csharp-hometask.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\obj\Debug\net6.0\Csharp-hometask.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\obj\Debug\net6.0\Csharp-hometask.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-hometask\Csharp-hometask\obj\Debug\net6.0\ref\Csharp-hometask.dll
