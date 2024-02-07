@@ -563,32 +563,32 @@
 
 //tapsiriq 9. 
 
-int n = 99;
-int count = 0;
+//int n = 99;
+//int count = 0;
 
 
-if ( n < 2 )
-{
-    Console.WriteLine("ne sade, ne murekkeb");
-}
+//if ( n < 2 )
+//{
+//    Console.WriteLine("ne sade, ne murekkeb");
+//}
 
-else if (n == 2)
-{
-    Console.WriteLine("sade");
-}
+//else if (n == 2)
+//{
+//    Console.WriteLine("sade");
+//}
 
-for (int i = 1; i < n; i++)
-{
-    if (n % i == 0)
-        count++;
-}
+//for (int i = 1; i < n; i++)
+//{
+//    if (n % i == 0)
+//        count++;
+//}
 
-if (count == 2)
-{
-    Console.WriteLine("sade");
-}
-else
-{
-    Console.WriteLine("murekkeb");
-}
+//if (count == 2)
+//{
+//    Console.WriteLine("sade");
+//}
+//else
+//{
+//    Console.WriteLine("murekkeb");
+//}
 
